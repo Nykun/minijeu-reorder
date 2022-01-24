@@ -1,0 +1,6 @@
+.container {
+  display: inline-flex;
+  padding: grid;
+  overflow: auto;
+  border: 1px solid red;
+}

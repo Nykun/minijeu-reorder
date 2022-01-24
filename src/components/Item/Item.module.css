@@ -1,0 +1,10 @@
+.item {
+  height: 100px;
+  width: 100px;
+  padding: 20px;
+}
+
+.background {
+  height: 100%;
+  width: 100%;
+}
